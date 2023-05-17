@@ -72,7 +72,7 @@
     "v8_use_snapshot": 1,
     "want_separate_host_toolset": 0,
     "xcode_version": "8.0",
-    "nodedir": "/Users/sungik-choi/Library/Caches/node-gyp/12.14.0",
+    # "nodedir": "/Users/sungik-choi/Library/Caches/node-gyp/12.14.0",
     "standalone_static_library": 1
   }
 }

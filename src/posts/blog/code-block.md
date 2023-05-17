@@ -1,13 +1,15 @@
 ---
-title: "Code Highlight"
+title: "Code Joey Highlight"
 category: "Code"
 date: "2020-02-01 12:00:00 +09:00"
-desc: "Test Markdown Code Highlight"
-thumbnail: "./images/code-block/thumbnail.jpg"
+desc: "Wassup yo wassup?"
+thumbnail: "./images/code-block/soccer.jpg"
 alt: "code block graphic"
 ---
 
 ## Using Plugin
+
+<img src='./images/code-block/socceratnight.jpg'>
 
 This starter kit uses the code highlight plugin [gatsby-remark-vscode](https://github.com/andrewbranch/gatsby-remark-vscode).
 Please refer to the link for more detailed instructions. It's a great plugin. 👍

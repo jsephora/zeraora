@@ -22,7 +22,7 @@ const metaConfig = {
   author: "Joey Sephora",
   siteUrl: "https://zeraora.gatsbyjs.io/",
   lang: "en",
-  utterances: "sungik-choi/gatsby-starter-apple-comment",
+  utterances: "jsephora/zeraora-comments",
   links: {
     github: "https://github.com/jsephora/zeraora",
   },

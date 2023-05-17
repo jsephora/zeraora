@@ -67,15 +67,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sungik-choi/gatsby-starter-apple.git"
+    "url": "https://github.com/jsephora/zeraora.git"
   },
   "keywords": [
     "gatsby"
   ],
-  "author": "Sungik Choi <sungik.dev@gmail.com> (http://sungikchoi.com/)",
+  "author": "Joey Sephora",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sungik-choi/gatsby-starter-apple/issues"
-  },
-  "homepage": "https://github.com/sungik-choi/gatsby-starter-apple#readme"
+  "homepage": "https://jsephora.github.io"
 }

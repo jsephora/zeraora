@@ -6,7 +6,7 @@ module.exports = {
     {
       files: ["*.ts", "*.tsx"],
       processor: "@graphql-eslint/graphql",
-      parser: "@typescript-eslint/parser",
+      parser: "@typescript-eslint/eslint-parser",
       plugins: ["react", "react-hooks", "jsx-a11y", "@typescript-eslint"],
       extends: ["eslint:recommended", "plugin:@typescript-eslint/recommended"],
       env: {
